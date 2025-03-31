@@ -1,14 +1,11 @@
-# Mi Proyecto PHP
 # 🎬 Próxima Película de Marvel + Demo PHP
-
-Proyecto PHP que consume la API [When Is The Next MCU Film](https://whenisthenextmcufilm.com/) y demuestra conceptos básicos/intermedios de PHP.
 
 ## 🌟 Características
 
 ### index.php
 - Consume una API pública de Marvel usando cURL.
 - Muestra información sobre:
-  - Próximo estreno de película MCU.
+  - Próximo estreno de película de Marvel.
   - Días restantes hasta el estreno.
   - Poster oficial.
   - Próxima producción después.
